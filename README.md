@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kamal Sai Voodika 👋</h1>
 
-<h3 align="center">Flutter Developer | Cross-Platform Mobile Engineer | AI-Augmented Mobile Apps</h3>
+<h3 align="center">Senior Flutter Developer | Cross-Platform iOS & Android | AI-Augmented Mobile Engineer</h3>
 
 <p align="center">
   📍 Visakhapatnam, India &nbsp;|&nbsp;
